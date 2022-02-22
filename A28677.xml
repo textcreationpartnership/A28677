@@ -1,0 +1,165 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A letter from St. Omers to a friend in London</title>
+            <author>B. B.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1681</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 20 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-04">2011-04 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28677</idno>
+            <idno type="STC">Wing B36</idno>
+            <idno type="STC">ESTC R12370</idno>
+            <idno type="EEBO-CITATION">11825105</idno>
+            <idno type="OCLC">ocm 11825105</idno>
+            <idno type="VID">49672</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28677)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 49672)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 806:9)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A letter from St. Omers to a friend in London</title>
+                  <author>B. B.</author>
+               </titleStmt>
+               <extent>4 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Langley Curtis ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>[1681?]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Caption title.</note>
+                  <note>Attributed to B.B. cf. BM.</note>
+                  <note>Place of publication and publisher statement taken from colophon.</note>
+                  <note>Publication date taken from text.</note>
+                  <note>Signed: B.B.</note>
+                  <note>On last page: St. Omers June the 5th. Stil. Nov. 1681.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Popish Plot, 1678.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Sampled and proofread</change>
+         <change>
+            <date>2009-06</date>
+            <label>Scott Lepisto</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2009-09</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="letter">
+            <pb n="1" facs="tcp:49672:1" rendition="simple:additions"/>
+            <head>A LETTER FROM St. OMERS To a FRIEND in LONDON.</head>
+            <opener>
+               <salute>Moſt Reſpected Sir,</salute>
+            </opener>
+            <p>WHen firſt imparted to you my deſign to travel, you deſired (which was to me a Command) to take ſome obſervation of the deportment of the <hi>Roman Ca<g ref="char:EOLhyphen"/>tholicks</hi> abroad, in Relation to the <hi>Engliſh</hi> Affairs about the late Plot; and though it's impoſſible to have that account of things of this nature, as you might have from a Perſon under other Circumſtances, (being never out of my native Country before) yet, in compliance with your requeſt, I have ſent you, what occurr'd to my obſervation in that little Society I had with thoſe ſort of men, and this being ſo eminent a place for corre<g ref="char:EOLhyphen"/>ſpondence with the <hi>Engliſh Catholicks;</hi> I thought it might moſt effectually anſwer your expe<g ref="char:EOLhyphen"/>ctation, to ſpend ſometime in it, for here the whole time (almoſt) of the Prieſts is taken up in receiving and ſending diſpatches to <hi>England, Ireland,</hi> and <hi>Scotland,</hi> ſo that wherever the Plot was Coin'd, we may rationally conclude here it was Mill'd.</p>
+            <p>Upon my arrival here, I delivered your Letter commendatory to your Friend, whom I found very ready in a kind Reception, to afford me a ſhare in the Company he kept with the Fathers, and others of Eminency, by which in the General, I was informed, that the late diſcovered Plot for the killing of the King and Subverſion of the <hi>Engliſh</hi> Government charged upon them, was ſo far from being the Invention of the Witneſſes, (as ſome have given out) that it was the politick Reſult of grand Councels, influenc'd principally by thoſe of the jeſuitical Order; who as the <hi>Papiſts</hi> ſay, are the only Men for projects in <hi>Europe;</hi> which aſſertion ſeems to be con<g ref="char:EOLhyphen"/>firm'd by ſome Inſtructions, one of that Faction gave to ſome <hi>Puny Catholicks,</hi> lately, deputed from this Place to <hi>England</hi> upon the Catholicks Service, a Copy of which, by the Aſſiſtance of a Friend, came to my hands, the ſubſtance of which (tranſcribed for your information) fol<g ref="char:EOLhyphen"/>lows.</p>
+            <p>The <hi>Father</hi> took for his Theme <hi>Geneſis</hi> 18. verſe the 19, from whence, the Doctrin of equi<g ref="char:EOLhyphen"/>vocation is peremptorily aſſerted to be according to holy Scripture, and that when a Perſons <hi>Integrity,</hi> and the Churches intereſt ſtand in Competition, that then it is lawful by the aſſiſtance of this Doctrin, to aſſert the Churches honor in publick; though it be circumſtanced with the higheſt ſuſpition of our own ſincerity, and this was an undoubted article of the <hi>Catholick faith,</hi> which upon pain of damnation, they ought to ſubmit to.</p>
+            <p>And to prevent any ſcruple, that might ariſe about the receiving of this Doctrin, the ex<g ref="char:EOLhyphen"/>ample of the holy Patriarch <hi>Jacob</hi> was urged by the <hi>Father,</hi> which he deſired they would ſet before them, and conform to as often as occaſion required, which he told them would be of great uſe in the work they was to ingage in, for the propagating of the <hi>Faith</hi> of the <hi>Roman</hi> Church in <hi>England,</hi> and that it might be ſafely made uſe of, without any hazard to their
+<pb n="2" facs="tcp:49672:2"/>
+               <hi>Souls,</hi> even at the hour of <hi>Death,</hi> when the confeſſing of the <hi>truth,</hi> would be of great detri<g ref="char:EOLhyphen"/>ment to the <hi>Catholick Cauſe,</hi> upon a ſtedfaſt belief of which, the ſouls of thoſe <hi>Catholicks,</hi> that died upon the ſcore of the Plot was ſupported; and made their ſouls invincible under all the <hi>heretical ſollicitations,</hi> for the diſcovering the ſecrets of <hi>Holy Church.</hi> It's impoſſible to perfect our deſigns, but under the ſhelter of this Doctrin, no <gap reason="illegible" resp="#UOM" extent="1 letter">
+                  <desc>•</desc>
+               </gap>anquiſhing of that peſtilent <hi>hereſie</hi> without a firm belief, and an undubitable aſſent to it; therefore, all the ſucceſſes that the Churches intereſt has met withal in <hi>England,</hi> ſince the miſcarriage of that great project, is to be attributed to this, had thoſe of the <hi>Ignatian</hi> order owned their guiltineſs, and that the charge againſt them was conſonant to <hi>truth,</hi> what a <hi>Loſs</hi> had the Church ſuſtained by ſuch a cowardly <hi>deportment,</hi> nay ſo obliging is this upon us, that we don't only ſecure the Churches credit by it, and upon that account, it's a debt we all owe her, but we merit <hi>Salvation,</hi> like<g ref="char:EOLhyphen"/>wiſe together with the obtenſion of a <hi>Crown</hi> of <hi>Martyrdom,</hi> to be ranked among all thoſe noble <hi>Confeſſors</hi> in the ſacred Kalender, where our names ſhall be perfumed with a perpetual eſteem, and have the honor of being ſupplicated by the <hi>Church Militant;</hi> yea thoſe exquiſite Flames of <hi>Purgatory,</hi> wherein the Patriarchs before the <hi>Advent</hi> of Chriſt lay, ſo long for a <hi>Purgation,</hi> are by a ſerviceable mental <hi>Reſervation</hi> for the advantage of the Church, excuſed from under<g ref="char:EOLhyphen"/>going: There is no point ſo neceſſary in the preſent Juncture as this, nor none ſo ſeaſonable to be preſſed upon; you that have taken the holy vow of <hi>miſſion,</hi> and are appointed to go for <hi>England,</hi> where you will find it very ſerviceable in your <hi>Aſſiſtance,</hi> for the diſcharging thoſe important Affairs, that will be committed to your <hi>Conduct,</hi> the due conſideration whereof, impreſſed upon your minds, will mingerate your ſouls for action, and to wade through the difficulties that may be met with.</p>
+            <p>The <hi>Oaths</hi> of <hi>Allegiance</hi> and <hi>Supremacy,</hi> thoſe bitter Pills are eaſily ſwallowed, when guilded with a Mental Reſervation, by the help of which, they may be taken by the Devouteſt <hi>Catho<g ref="char:EOLhyphen"/>licks,</hi> without which, they would be nauſeous to the Palate: No true <hi>Catholick</hi> being able to take them in their literal ſignification, by this <hi>Heretical</hi> Aſſemblies may be frequented, and their Sa<g ref="char:EOLhyphen"/>cramental Adminiſtrations joined withal, when it may conduce to the Intereſt of the Church, which otherwiſe would be impractible, by this you may take up the Cudgels of <hi>Epiſcopacy</hi> againſt <hi>Diſſenters,</hi> and when you ſee it neceſſary, thoſe of the <hi>Diſſenters</hi> againſt <hi>Epiſcopacy,</hi> and yet at the ſame time ſeek the ſubverſion of both, which leads to the main thing I have in Commiſſion, &amp; that is, to give you ſome particular Inſtructions about your Deportment in <hi>England,</hi> in the preſent conjuncture of things, as I received them from a ſolemn Conſult of the <hi>Fathers.</hi>
+            </p>
+            <p>You muſt upon all occaſions decry, that which the <hi>Hereticks</hi> call the <hi>Popiſh Plot,</hi> which was no other but a holy <hi>Combination</hi> to propagate the <hi>Catholick Faith,</hi> and to extirpate that <hi>Bri<g ref="char:EOLhyphen"/>tiſh hereſie,</hi> the accompliſhment whereof, much honor would not only redound to God, but much emolument to the Church, which ſhould inſpirit the Soul of every true <hi>Catholick</hi> to in<g ref="char:EOLhyphen"/>gage in it, and to call nothing by the name of hardſhip, that tends to the effecting thereof, but yet ſecrecy is eſſentially neceſſary, and the denial of any ſuch thing of abſolute uſe, among thoſe <hi>Heretical</hi> People, who amidſt of all the clear diſcoveries, they boaſt of want, the dying Teſtimony of thoſe Charged, to have been the Inſtruments in this <hi>Sacred</hi> undertaking, who to their eternal honor, be it ſpoken, preferr'd the Intereſt of our holy Mother, even before their own Salvation, and were it poſſible, would have been content to have had the Infernal Puniſh<g ref="char:EOLhyphen"/>ments inflicted upon them, rather than to have been guilty of Revealing thoſe Secrets, the Church have enjoyned a concealment of thoſe pious examples, are propoſed for your <hi>Imitati<g ref="char:EOLhyphen"/>on,</hi> that you ſhould follow their ſteps; its no ſmall confidence the Church repoſes in you, in ſending you of this Bleſſed Errand, and having theſe ſecrets imparted to you, oh betray not your truſt, remember you have ſworn ſecrecy in the receipt of the holy <hi>Euchariſt,</hi> and now to divulge thoſe ſecrets you are intruſted withal, indiſpenſably concludes under a ſtate of <hi>Dam<g ref="char:EOLhyphen"/>nation,</hi> you are ſent upon the great Affairs of the Church, and one principal duty incumbent upon you is, to inſinuate among the <hi>Hereticks,</hi> that there was no deſign againſt them, by the <hi>Catholicks;</hi> you will meet with abundance of credulous Souls among them, that will believe you, and ſo the work will be the leſs difficult: Former <hi>Succeſs</hi> pleads for farther <hi>Attempts,</hi> a perſwaſion the diſcover'd deſign was but a fiction, makes a future the more feaſable, when we are pittied as ſufferers for our <hi>Innocence,</hi> we cannot eaſily be thought Conſpirators. You will find thoſe good natured Souls, even amongſt the Hereticks themſelves, that will joyn in the Conſort in crying out no Plot, no Plot except it be a <hi>Presbyterian</hi> one, (which opinion we ſhall ſuddenly take care to confirm), and that it was the indigency of the Witneſſes, that invented all this Buſtle about a <hi>Popiſh</hi> Plot, theſe are a ſort of Men, that are in their kind ſervicable to
+<pb n="3" facs="tcp:49672:2"/>our Intereſt, although they don't deſign it ſo, that care muſt be taken to nouriſh this Notion among them, and not to deſpiſe this day of ſmall things.</p>
+            <p>In all your publick Diſcourſes, Uſher in ſomething about the Procedures of the Parliament, and Repreſent them as odious as poſſible you can, to leſſen their Eſteem amongſt the People; let 41 and 42 bear a great Part in your Diſcourſe, and give out that their preſent Propenſions are to repeat thoſe Practices, devote your ſelves to compoſe Pamphlets, againſt thoſe peſtilent ſort of Men; <hi>Roger Leſtranges</hi> elaborate Pieces will furniſh you with Sentences to ſute your pur<g ref="char:EOLhyphen"/>poſe, ſcatter Reports, that moſt of the Houſe of Commons in the late Parliaments were <hi>Fanaticks,</hi> and that their Votes were highly arbitrary, and illegal, and that their <hi>Pha<g ref="char:EOLhyphen"/>natical</hi> Principles was appearant by making War upon the conforming Clergy, in their ordering a Bill to be brought in againſt Pluralities, which muſt be repreſented as the <hi>Prodromus</hi> to <hi>Hudibraſſes</hi> Cry: no Biſhop by this you will ſecure the ſuperior Clergy, on your ſide, eſpeci<g ref="char:EOLhyphen"/>ally thoſe of <hi>London,</hi> moſt of which keep their Country Livings, as the Citizens their Houſes; but above all, admire at their Preſumption about the Bill of Excluſion, and that their inter<g ref="char:EOLhyphen"/>medling with a thing of this Nature, implies a great Heigth of Sedition, and Faction in their Bo<g ref="char:EOLhyphen"/>dy, that every Member that voted in favor of it, needed a Pardon ſtampt by Creation, as much as my Lord <hi>Danby.</hi> That it was more proper for them to conſult the beſt way, to make <hi>Tan<g ref="char:EOLhyphen"/>gier</hi> tenable, and the raiſing of Mony for the Rebuilding af <hi>Charles</hi> and <hi>Henrietta</hi> Forts: This is a work alſo of indiſpenſable neceſſity, they being the great <hi>Bull-wark</hi> againſt our Deſigns, which muſt by means be battered down, before we can make any conſiderable Progreſs in thoſe va<g ref="char:EOLhyphen"/>rious Works, that now are under our Management.</p>
+            <p>This hath likewiſe been the continual Imployment of <hi>Catholiks</hi> in that Kingdom, with no ſmall Succeſs; ſo that ſome Sort of People queſtion whether there be any ſuch Conſtitution in the Government, and others to wiſh there were not.</p>
+            <p>You muſt alſo mightily inveigh againſt the <hi>Diſſenters,</hi> from the eſtabliſhed Church among them, and lament the Negligence of Subordinate Majeſtrates, in not putting the Laws in Execution a<g ref="char:EOLhyphen"/>gainſt theſe Sort of People, commend thoſe Clergy Men moſt, whoſe zeal leads them that way, oppoſe the Union of different Opinions, as a thing unattainble, and that it proceeds from a ſpi<g ref="char:EOLhyphen"/>rit of faction to deſign it, that it will be the way to ruine the conforming Party, cry out of dan<g ref="char:EOLhyphen"/>gers, impendant from the <hi>Presbiterians</hi> againſt the Covernment; This muſt be effectually done, for it is from thoſe Sort of Men, that poor <hi>Catholicks</hi> have of late ſuffered moſt exſtreamly, they, being moſt of walleriſing Spirits, by this, you will ſtrangely amuſe and divert the <hi>Hereticks</hi> hot purſuits againſt the <hi>Catholicks,</hi> whilſt they are in their full Cry, againſt one another, our Deſigns may go on the more ſmoothly, and unſuſpectedly, and the Laws againſt us lie down on't, for <hi>Deſigns</hi> cannot be ſo well managed in a <hi>Priſon,</hi> this hath likewiſe been experienced, to have been mighty ſuccesful ſince the Diſcovery of that glorious Project. In a word make it your Buſi<g ref="char:EOLhyphen"/>neſs to expoſe all, as infamous Perſons, and Enemies to the King and Kingdom, that oppoſe the Intereſt of the <hi>Catholick</hi> Cauſe, more eſpecially the petitioning Lords of the Monmouth facti<g ref="char:EOLhyphen"/>on, who ſhall in due time have that Retribution for their Pains, as will make them Repent of being ſuch great <hi>Sticklers</hi> for <hi>Proteſtantiſm.</hi>
+            </p>
+            <p>I thought Sir, to tranſcribe this Paper for your information, that you might ſee how inno<g ref="char:EOLhyphen"/>cent theſe Men are, as to a Plot, and what well wiſhers they are to the preſent <hi>Conſtitution,</hi> as a traiterous Peer lately profeſſed upon the Scaffold, and how infinitely they are wrong'd, that upon the Evidence of ſuch Perſons, their Lives ſhould be taken away, when their endeavors are not to juſtifie their pretended Innocence, but to conceal their deviliſh Guilt, and to facilitate the perpetration of their helliſh <hi>Deſigns</hi> againſt the <hi>Protestant</hi> Intereſt, nothing being more com<g ref="char:EOLhyphen"/>mon than when their Company correſponds to juſtifie their <hi>Conſpiracies,</hi> againſt the <hi>Engliſh</hi> Government, and yet in <hi>Proteſtant</hi> Countries pretend to abhor any ſuch Proceedings, as much as Sir <hi>Francis Withins</hi> does petitioning.</p>
+            <p>The Prieſts here was ſtrangely exhillerated at the Receipt of the Lord <hi>Stafford</hi>'s Speech, to find that he finiſhed his teſtimony with a <hi>Lye</hi> in his mouth, for they looked upon his Lordſhip as ſtaggering in his <hi>belief,</hi> as to the Doctrine of equivocation, and had a mind to outlive Treaſon as well as B— but being conſtant to the <hi>death,</hi> hath obtained with the Reſt to be privately Laughed, by the ſubtle Prieſts, to ſuffer himſelf to be ſo impoſed upon, when as they are not afraid to whiſper, that he knew himſelf guilty, and it was pleaſantly expreſſed by a Papiſt, that his Lordſhip Rode to heaven upon a <hi>Jeſuits</hi> back.</p>
+            <p>The Prieſts of late are mightily tranſported at their <hi>Engliſh</hi> Intelligence, and ſay it will ſhortly appear to the world, that the Popiſh Plot was no other but a Republican, and <hi>Presby<g ref="char:EOLhyphen"/>terian</hi> Deſign; for all the Gentry in <hi>England</hi> are accounted as <hi>Presbyterians,</hi> that are vigorous againſt the Papal intereſt, and they openly Report that things ſhall be reduced to thoſe cir<g ref="char:EOLhyphen"/>cumſtances
+<pb n="4" facs="tcp:49672:3"/>before it be long, that thoſe which will talk of a Popiſh Plot, muſt do it in their Cloſets, and that a grave was making in <hi>England,</hi> wherein the <hi>Proteſtants</hi> themſelves ſhould be forced to bury it; what theſe things mean, is obvious to every ones underſtanding, which God of his infinite mercy prevent.</p>
+            <p>You cannot, Sir, imagine with what inveteracy of Spirit they mention the <hi>Engliſh</hi> Na<g ref="char:EOLhyphen"/>tion, and that the Crown hath been uſurped by all <hi>Proteſtant</hi> Kings, ſince the <hi>Marian</hi> days, and that they are therefore in Conſcience obliged to endeavour to recover what the Church hath loſt by that means, and this they will by no means call Treaſon, nor allow to be un<g ref="char:EOLhyphen"/>juſtifiable; to which degree of confidence, I am informed, they are almoſt armed in <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> there you have them in pretence, ſiding with the motions of the Court, in oppoſi<g ref="char:EOLhyphen"/>tion to thoſe of the Parliament, though implacable enemies to both, likewiſe in appearance joyning with the <hi>Conformiſts</hi> againſt the <hi>Nonconformiſts,</hi> though equally (by them) are ha<g ref="char:EOLhyphen"/>ted, for here they are manifeſt, and the men appear as they are; nothing being more fre<g ref="char:EOLhyphen"/>quent, then to hear them mention his Sacred Majeſty, with an irreverence not to be par<g ref="char:EOLhyphen"/>doned, with ſuch villifying Expreſſions, that would amount to the higheſt affront, if given to an ordinary Perſon.</p>
+            <p>So Sir, that which naturally Reſults from the whole is this, that the great Deſign of theſe ſort of men, is to Ruin that Kingdom, and to divide in order to the effecting thereof, as a <hi>Roman Catholick</hi> once told me in <hi>Bruſſels,</hi> it was worth twenty years purchaſe, after the annuity of St. <hi>Pauls Deanery</hi> to find that good Dean leave off his heats againſt <hi>Popery</hi> in ſuch a Juncture as this, and worry and tare his own <hi>Irenicum,</hi> till he made it cry out, that Separation was both miſchievious and unreaſonable, thereby ſurpriſing the poor <hi>Diſſenters</hi> who had a great affection for him, to find the good Doctor looſe the Scent of <hi>Popery,</hi> in the midſt of the Plot, and fall upon them.</p>
+            <p>Sir, this little account of the Diſpoſition and temper of theſe Perſons, we may ſee the abſolute Neceſſity, for <hi>Proteſtants</hi> to live in the ſupreameſt Exerciſes of Love and good Affection, tho they may diſſent in ſome particulars Punctillioes in Judgement, in reference to render them the more capable to withſtand the common Enemy of both their civil and religious Priviledges; why ſhould two or three Ceremonies be the occaſion of raiſing Feuds, and animoſities between them? certainly Men are exſtreamly to blame, that think they owe not the Debt of common Love to one another, where theſe ſmall Differences are found between them, there being no original Cauſe in the things themſelves, to produce a dividedneſs of affection; therefore it muſt be attri<g ref="char:EOLhyphen"/>buted not to the Religion of the <hi>Proteſtant</hi> Profeſſion (although conſidered in thoſe different ways of worſhip now in <hi>England,</hi> that there is not a ſpirit of love and kindneſs, as there ought to be, which is ſo abſolutely requiſite under their preſent Circumſtances), but to the ill Tempers and Paſſions of Men, the evil Tendency of which, I the more apprehend, in having this Proſpect of the <hi>Engliſh</hi> Affairs in theſe <hi>Popiſh</hi> Counties.</p>
+            <p>
+               <hi>Thus Sir, I have given you this ſmall Account of Matters, as a Teſtimony of my Obedience, I ſhall ſtill have a Sence of my Duty, in imparting any thing elſe of moment, that may occur in this or of a<g ref="char:EOLhyphen"/>ny other Nature.</hi>
+            </p>
+            <closer>
+               <signed>I am Sir your moſt obedient Servant <hi>B. B.</hi>
+               </signed>
+               <dateline>St. <hi>Omers June</hi> 
+                  <date>the <hi>5th.</hi> Stil. <hi>Nov.</hi> 1681.</date>
+               </dateline>
+            </closer>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>LONDON,</hi> Printed for <hi>Langley Curtis</hi> at the <hi>Goat</hi> on <hi>Ludgate-Hill.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
